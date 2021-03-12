@@ -1,9 +1,9 @@
 # Intro to Digital Technology Standards #
 
-Course Standard 2
-IT-IDT-2
+## Course Standard 2 ##
+## IT-IDT-2
 Explore, research, and present findings on positions and career paths in technology
-and the impact of technology on chosen career area.
+and the impact of technology on chosen career area. ##
 2.1 Develop technical reading and writing skills to follow instructions.
 2.2 Work in a team to solve problems and share knowledge.
 2.3 Explore the impact of digital technology on careers including non-traditional technology

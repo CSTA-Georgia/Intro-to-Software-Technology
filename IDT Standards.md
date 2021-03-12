@@ -1,27 +1,25 @@
 # Intro to Digital Technology Standards #
 
-## Course Standard 2 ##
-## IT-IDT-2
+## Course Standard 2 - IT-IDT-2 ##
 Explore, research, and present findings on positions and career paths in technology
 and the impact of technology on chosen career area. ##
-2.1 Develop technical reading and writing skills to follow instructions.
-2.2 Work in a team to solve problems and share knowledge.
-2.3 Explore the impact of digital technology on careers including non-traditional technology
-fields and careers in each of the Georgia Career Clusters.
-2.4 Use collaborative tools to communicate with team members.
-2.5 Describe how computing enhances traditional careers, and enables new careers.
-2.6 Research post-secondary options for continuing education in IT field.
-2.7 Research IT credentials needed and job requirements in various occupations.
-2.8 Describe the impact of having web design skills to build skills for chosen career.
+* 2.1 Develop technical reading and writing skills to follow instructions.
+* 2.2 Work in a team to solve problems and share knowledge.
+* 2.3 Explore the impact of digital technology on careers including non-traditional technology fields and careers in each of the Georgia Career Clusters.
+* 2.4 Use collaborative tools to communicate with team members.
+* 2.5 Describe how computing enhances traditional careers, and enables new careers.
+* 2.6 Research post-secondary options for continuing education in IT field.
+* 2.7 Research IT credentials needed and job requirements in various occupations.
+* 2.8 Describe the impact of having web design skills to build skills for chosen career.
 2.9 Explore the game design industry for design, creation, and career options.
-Course Standard 3
-IT-IDT-3
+
+## Course Standard 3 - IT-IDT-3 ##
 Demonstrate effective professional communication skills (oral, written, and digital) and
 practices that enable positive customer relationships.
-3.1 Recognize the importance of all customers to a business.
-a. Identify organization's products and services.
-b. State the IT influence and impact on business.
-c. Communicate how technology can be used to create a solution to business challenge
+* 3.1 Recognize the importance of all customers to a business.
+  * a. Identify organization's products and services.
+  * b. State the IT influence and impact on business.
+  * c. Communicate how technology can be used to create a solution to business challenge
 and present to customer in professional business format.
 3.2 Demonstrate ability to assist customers in a professional manner.
 a. Actively listen to customers.
